@@ -49,7 +49,7 @@ function search(query){
 	break;
 
         default:
-            window.location="https://metasearch.nl/search?q=%s" +
+            window.location="https://metasearch.nl/search?q=" +
                 query.replaceChars("", "+");
     }
 }
