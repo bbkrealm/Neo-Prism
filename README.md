@@ -7,7 +7,7 @@
 About
 -------------------------------
 
-<i>Prism</i> is a startpage with a simple layout.
+<i>Neo-Prism</i> is a startpage with a simple layout.
 
 Startpages are locally hosted, usually, webpage that serves as a homepage for your browser.
 
