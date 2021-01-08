@@ -64,7 +64,7 @@
 	#searchbox {
 		border: none;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.1) !important;
-		background: linear-gradient(to right, #d2d2d2 40%, #0046ff 100%);
+		background: linear-gradient(to right, #000000 40%, #0046ff 100%);
 		color: #60646D;
 		font-size: 11pt !important;
 		font-stretch: condensed;
