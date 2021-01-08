@@ -1,8 +1,8 @@
-# Prism
+# Neo-Prism
 
 <img src="preview_prism_2.png" width="100%">
 
-[Live Demo](https://bbkrealm.github.io/Neo-Prism/) of <i>Prism</i>.
+[Live Demo](https://bbkrealm.github.io/Neo-Prism/) of <i>Neo-Prism</i>.
 
 About
 -------------------------------
