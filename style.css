@@ -141,4 +141,5 @@
 		text-indent: -2px;
 		text-overflow: ellipsis;
 		white-space: nowrap;
+		overflow:auto;
 	}
