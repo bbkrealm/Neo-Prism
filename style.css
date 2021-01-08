@@ -11,7 +11,7 @@
 	}
 	#container {
 		/* MAIN CONTAINER */
-		background: #11132E;
+		background: linear-gradient(55deg, black 12%, #0665bb, #1fff00 80% );
 		width: 100%;
 		height: 100%;
 		margin: auto;
@@ -39,7 +39,7 @@
 		letter-spacing: 10px !important;
 	}
 	#banner #time_box {
-		color: #7E7E7E;
+		color: #000000;
 		right: 20px;
 		text-align: right;
 	}
@@ -50,7 +50,7 @@
 	}
 	#banner #time_box,
 	#banner #day_box {
-		background: #FFF;
+		background: rgba(0,0,0,0);
 		box-shadow: 0px 1px 2px rgba(0,0,0,.1) !important;
 		border-radius: 2px !important;
 		font-family: "Roboto";
@@ -107,7 +107,7 @@
 	}
 	.card .avatar {
 		border-radius: 25%;
-		box-shadow: 0px 1px 2px rgba(0,0,0,.1);
+		box-shadow: 0px 0px 16px 0px rgb(200 251 112), 0px 0px 17px 12px rgb(30 1 255);
 		height: 8.5vw;
 		width: 8.5vw;
 		margin-top: 30px;
